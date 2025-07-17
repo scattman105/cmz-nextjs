@@ -1,11 +1,6 @@
-import HelloWorld from '../components/HelloWorld';
 
 const Home = () => {
-    return (
-        <div>
-            <HelloWorld />
-        </div>
-    );
+  return <h1>If you can see this, routing is working ✅</h1>;
 };
 
 export default Home;
